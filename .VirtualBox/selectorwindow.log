@@ -1,0 +1,25 @@
+VirtualBox GUI VM Selector Window 5.2.8 r121009 win.amd64 (Feb 26 2018 15:44:39) release log
+00:00:00.273422 Log opened 2018-09-12T05:54:11.364843600Z
+00:00:00.273422 Build Type: release
+00:00:00.273422 OS Product: Windows 10
+00:00:00.273422 OS Release: 10.0.10586
+00:00:00.273422 OS Service Pack: 
+00:00:00.292951 DMI Product Name: 20J5S08X0V
+00:00:00.297835 DMI Product Version: ThinkPad L470
+00:00:00.297835 Host RAM: 8057MB (7.8GB) total, 3052MB (2.9GB) available
+00:00:00.297835 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.297835 Process ID: 8728
+00:00:00.297835 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.297835 Qt version: 5.6.2
+00:00:00.362283 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.742141 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:05.174475 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.679326 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:16.344659 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:18.395311 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:25.372401 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:30.453660 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:31.755057 2D support test succeeded
+00:00:47.095872 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:49.708403 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:49.869528 GUI: UIMediumEnumerator: Medium-enumeration finished!
